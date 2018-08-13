@@ -57,7 +57,7 @@ namespace AzureVMApp
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-                this.Close();
+                //this.Close();
             }
            
 
